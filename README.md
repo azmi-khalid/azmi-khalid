@@ -2,6 +2,8 @@
 
 💼 Banker | 💻 Developer | 📊 Data Enthusiast | 🤖 Machine Learning Explorer
 
+<!-- Replace 'your_username' with your GitHub username -->
+[![Azmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmi-khalid&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
 ---
 
 ### 🚀 About Me
