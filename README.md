@@ -1,4 +1,11 @@
-# <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E1B4B&center=true&vCenter=true&width=600&lines=Hi,+I'm+Azmi+Khalid+👋;I+am+a+Banking+Leader;I+am+a+Python+Developer;I+am+an+AI+Visionary" alt="Typing SVG" /> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi,+I'm+Azmi+Khalid+👋;I+am+a+Banking+Leader;I+am+a+Python+Developer;I+am+an+AI+Visionary;Founder+of+Sifara+Tech">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=006400&center=true&vCenter=true&width=800&lines=Hi,+I'm+Azmi+Khalid+👋;I+am+a+Banking+Leader;I+am+a+Python+Developer;I+am+an+AI+Visionary;Founder+of+Sifara+Tech">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E1B4B&center=true&vCenter=true&width=800&lines=Hi,+I'm+Azmi+Khalid+👋;I+am+a+Banking+Leader;I+am+a+Python+Developer;I+am+an+AI+Visionary;Founder+of+Sifara+Tech">
+  </picture>
+</p>
+
 ### Vice President | Banking Strategist | AI & Data Science Enthusiast
 
 A seasoned banking professional with **24 years of experience** in leadership and strategic marketing. Currently bridging the gap between high-level financial management and cutting-edge technology through **Artificial Intelligence** and **Data Science**.
