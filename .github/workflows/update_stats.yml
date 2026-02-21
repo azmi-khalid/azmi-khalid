@@ -1,0 +1,21 @@
+name: Update Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Berjalan otomatis setiap tengah malam
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Refresh Stats
+        run: |
+          echo "Last Updated: $(date)" > last_updated.txt
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_updated.txt
+          git commit -m "Automated stats refresh" || exit 0
+          git push
