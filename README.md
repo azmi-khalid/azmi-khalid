@@ -48,4 +48,4 @@ A seasoned banking professional with **24 years of experience** in leadership an
 ### 👨‍💻 About the Developer
 Driven by the philosophy that **"Code is like a loan: well-structured, purpose-driven, and best when it delivers value."** Based in Jakarta, Indonesia.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/azmi-khalid/)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/azmi-khalid-7b7530147/)
