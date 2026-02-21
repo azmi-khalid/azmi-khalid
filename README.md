@@ -40,7 +40,7 @@ A seasoned banking professional with **24 years of experience** in leadership an
 
 ### 🚀 Featured AI Projects
 * **[Sifara AI Chat](https://github.com/azmi-khalid/ai-sifara-chat)**: Secure, local multimodal AI for banking document analysis.
-* **[AI Background Remover](https://github.com/azmi-khalid/ai-background-remover)**: Automated image processing service built with Python and Flask.
+* **[Sifara Background Remover](https://github.com/azmi-khalid/ai-background-remover)**: Automated image processing service built with Python and Flask.
 
 
 ---
