@@ -1,53 +1,45 @@
-# 👋 Hi, I'm Azmi Khalid
+# Hi, I'm Azmi Khalid 👋
+### Vice President | Banking Strategist | AI & Data Science Enthusiast
 
-💼 Banker | 💻 Developer | 📊 Data Enthusiast | 🤖 Machine Learning Explorer
-
-<!-- Replace 'your_username' with your GitHub username -->
-[![Azmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmi-khalid&show_icons=true&theme=radical )](https://github.com/anuraghazra/github-readme-stats )
----
-
-### 🚀 About Me
-
-I'm a banking professional who loves coding and turning data into insights.
-I enjoy building dashboards, automating reports, exploring data science and machine learning tools, and learning full stack development.
+A seasoned banking professional with **24 years of experience** in leadership and strategic marketing. Currently bridging the gap between high-level financial management and cutting-edge technology through **Artificial Intelligence** and **Data Science**.
 
 ---
 
-### 🛠️ Tools & Languages
+### 🛠️ Professional Tech Stack
 
-- Python (Pandas, Streamlit, Flask)
-- Excel
-- SQL
-- HTML, CSS, JavaScript (beginner)
-- Git & GitHub
+**Languages & Core Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
----
-
-### 💻 Tech Stack
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
----
-
-
-### 📈 Currently Learning
-
-- Full Stack Development
-- Machine Learning for banking use-cases
-- GitHub Project Workflows
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Let's Connect
-
-- LinkedIn: [linkedin.com/in/azmi-khalid-7b7530147](https://linkedin.com/in/azmi-khalid-7b7530147)
-- Email: azmi.dothebest@gmail.com
+### 🚀 Featured AI Projects
+* **[Sifara AI Chat](https://github.com/azmi-khalid/ai-sifara-multimodal-chat)**: Secure, local multimodal AI for banking document analysis.
+* **[AI Background Remover](https://github.com/azmi-khalid/ai-background-remover)**: Automated image processing service built with Python and Flask.
 
 ---
 
-_“Code is like a loan: well-structured, purpose-driven, and best when it delivers value.”_ 💡
+### 📈 GitHub Ecosystem
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=azmi-khalid&show_icons=true&theme=nord&hide_border=true" width="400" />
+</p>
+
+---
+
+### 👨‍💻 About the Developer
+Driven by the philosophy that **"Code is like a loan: well-structured, purpose-driven, and best when it delivers value."** Based in Jakarta, Indonesia.
+
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/azmi-khalid/)
