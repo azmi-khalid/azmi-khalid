@@ -60,7 +60,3 @@ A seasoned banking professional with **24 years of experience** in leadership an
 * **Sharing Knowledge:** Working on a simple guide to help the younger generation understand banking fundamentals better.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/azmi-khalid-7b7530147/)
-
-### 📊 GitHub Analytics
-![Azmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmi-khalid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmi-khalid&layout=compact&theme=radical)
