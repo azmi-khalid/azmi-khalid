@@ -45,10 +45,22 @@ A seasoned banking professional with **24 years of experience** in leadership an
 * **[Sifara AI Chat](https://github.com/azmi-khalid/ai-sifara-chat)**: Secure, local multimodal AI for banking document analysis.
 * **[Sifara Background Remover](https://github.com/azmi-khalid/ai-background-remover)**: Automated image processing service built with Python and Flask.
 
+---
+
+### 👨‍💻 Journey & Interests
+* **Banking Background:** Over 24 years of experience in the financial industry
+* **Tech Enthusiast:** Passionate about bridging banking expertise with automation, from local RAG systems to credit process efficiency.
+* **Sifara Tech:** A personal project to share my learning journey in Python and AI with others.
+* **Learning Path:** Currently exploring the practical applications of LangGraph, CrewAI, and data analytics.
 
 ---
 
-### 👨‍💻 About the Developer
-Driven by the philosophy that **"Code is like a loan: well-structured, purpose-driven, and best when it delivers value."** Based in Jakarta, Indonesia.
+### 🌱 Outside of Work
+* **Green Finger & DIY:** I enjoy the patience required for hydroponics and the focus needed for home DIY repairs.
+* **Sharing Knowledge:** Working on a simple guide to help the younger generation understand banking fundamentals better.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/azmi-khalid-7b7530147/)
+
+### 📊 GitHub Analytics
+![Azmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmi-khalid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmi-khalid&layout=compact&theme=radical)
