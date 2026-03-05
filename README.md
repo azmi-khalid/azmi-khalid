@@ -29,6 +29,7 @@ A seasoned banking professional with **24 years of experience** in leadership an
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/PyPDF2-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-%23306998.svg?style=flat-square&logo=polars&logoColor=white" />
 </p>
 
 **Development & Productivity**
